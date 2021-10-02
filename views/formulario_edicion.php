@@ -91,7 +91,7 @@
 
         <!-- boton volver  -->
 
-        <a  href="../index.php" class="btn btn-light mt-2 w-100">Cancelar</a>
+        <a  href="../index.php" class="btn btn-light mt-2 border-success w-100">Cancelar</a>
     </div>
     
     

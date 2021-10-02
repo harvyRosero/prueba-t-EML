@@ -18,7 +18,7 @@
 
                     <link rel='stylesheet' href='../css/bootstrap.min.css'>
                 </head>
-                <body>
+                <body style='background-color:#00000080'>
                     <div class='container mt-5 alert alert-success' role='alert'>
                     <h4 class='alert-heading'>Datos eliminados correctamente!</h4>
                     <p>Ahora puedes ver los cambios realizados en la pagina principal.</p>
@@ -41,7 +41,7 @@
 
                 <link rel='stylesheet' href='../css/bootstrap.min.css'>
             </head>
-            <body>
+            <body style='background-color:#00000080'>
 
             <svg xmlns='http://www.w3.org/2000/svg' style='display: none;'>
                 <symbol id='check-circle-fill' fill='currentColor' viewBox='0 0 16 16'>

@@ -34,7 +34,7 @@
 
                     <link rel='stylesheet' href='../css/bootstrap.min.css'>
                 </head>
-                <body>
+                <body style='background-color:#00000080'>
                     <div class='container mt-5 alert alert-success' role='alert'>
                     <h4 class='alert-heading'>Datos Guardados correctamente!</h4>
                     <p>Ahora puedes ver los cambios realizados en la pagina principal.</p>
@@ -56,7 +56,7 @@
 
                 <link rel='stylesheet' href='../css/bootstrap.min.css'>
             </head>
-            <body >
+            <body style='background-color:#00000080' >
 
             <svg xmlns='http://www.w3.org/2000/svg' style='display: none;'>
                 <symbol id='check-circle-fill' fill='currentColor' viewBox='0 0 16 16'>
@@ -98,7 +98,7 @@
 
                 <link rel='stylesheet' href='../css/bootstrap.min.css'>
             </head>
-            <body >
+            <body style='background-color:#00000080' >
 
             <svg xmlns='http://www.w3.org/2000/svg' style='display: none;'>
                 <symbol id='check-circle-fill' fill='currentColor' viewBox='0 0 16 16'>
@@ -115,7 +115,7 @@
                 <div class='container  col-6 mt-5 alert alert-danger d-flex align-items-center' role='alert'>
                     <svg class='bi flex-shrink-0 me-2' width='24' height='24' role='img' aria-label='Danger:'><use xlink:href='#exclamation-triangle-fill'/></svg>
                     <div>
-                        -ERROR- Este correo ya esta siendo utilizado!. 
+                        -ERROR- Este correo ya esta registrado. 
                     </div>
                     <hr>
                     <div class=''>
@@ -127,6 +127,8 @@
                 <script src='../js/bootstrap.min.js' ></script>
             </body>
             </html>";
+            
+        
     }
 
     
